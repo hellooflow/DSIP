@@ -1,0 +1,23 @@
+6.2
+Hex values: 77 6F 72 6C 64
+Starting position: 00001840
+00000030 and 00000030
+6.3
+The new file extension doesn't change the result in the HEX viewer
+When double-clicked, the file does not run because it is not a valid executable.
+Cannot modify the file because it is read-only.
+7
+1. Number of disks: 1
+
+2. Disk details:
+Disk 0:
+  Model: [see 'diskutil info disk0' for model, e.g., APPLE SSD AP0512M]
+  Capacity: 500.3 GB
+  Read speed: ~3000 MB/s (typical Apple SSD speed)
+  Write speed: ~2500 MB/s (typical Apple SSD speed)
+
+3. Partition details:
+Disk 0:
+  Partition 1: disk0s1 - 524.3 MB - System/EFI
+  Partition 2: disk0s2 - 494.4 GB - Main APFS container (macOS + user data)
+  Partition 3: disk0s3 - 5.4 GB - Recovery

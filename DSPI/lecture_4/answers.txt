@@ -1,0 +1,8 @@
+5
+When using kextstat | wc -l on my apple silicon Mac, I found that I have 245 drivers. I wasn't able to find where my wifi and network drivers where located on my MacBook.
+
+6.1
+126.0% of my CPU is used by my browser and 250 MB. 
+
+6.2
+/Applications/Google Chrome.app

@@ -1,0 +1,16 @@
+4.1
+My CPU model is an Apple M3 chip. It has a total of eight cores, 4 performance-cores and 4 efficiency-cores. I couldn't find the core speed and after some searches online I found Apple Silicon has dynamic frequencies instead of one fixed “core speed.”
+
+4.2
+The type of RAM I have is LPDDR5, manufactured by Micron. I have a total of 16GB RAM. The speed is not explicitly listed in system report.
+
+4.3
+The GPU I have is the Apple M3 integrated M3, with a total of 10 GPU cores. It uses unified memory (shared with system RAM) so it doesn't have a separate VRAM. This Mac has 16 GB total unified memory available for both CPU and GPU.
+4.4
+My firmware version is iBoot-10151.140.19, it was last updated on July 29, 2024.
+
+5
+The default boot device is Internal SSD (Macintosh HD). At startup, holding the Power button shows Startup Manager with available boot devices. Yes, the MacBook Air M3 can boot from a USB disk, if it contains a valid bootable system and external boot is allowed in security settings.
+
+6
+My current screen resolution is 1470x956 retina. The built-in Retina display on a MacBook Air M3 cannot be rotated to portrait mode in System Settings. Rotation is only available on supported external monitors. When changed to 960 × 600: The screen becomes pixelated and workspace is very limited, with icons and text appearing much larger.

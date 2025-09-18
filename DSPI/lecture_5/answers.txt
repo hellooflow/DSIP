@@ -1,0 +1,52 @@
+4.1
+My public IP is 80.112.150.234. My local IP is 192.168.1.106.
+4.2
+My public IP changed(because I'm routing through the university network).
+4.3
+My public IP address is a public one, and my local IP is private.
+4.4
+{
+  "ip": "80.112.150.234",
+  "hostname": "507096ea.static.ziggozakelijk.nl",
+  "city": "Delft",
+  "region": "South Holland",
+  "country": "NL",
+  "loc": "52.0067,4.3556",
+  "org": "AS33915 Vodafone Libertel B.V.",
+  "postal": "2611",
+  "timezone": "Europe/Amsterdam",
+  "readme": "https://ipinfo.io/missingauth"}
+4.5
+the first hop is your router (private IP), the last hop is a Google server (public).
+traceroute to google.nl (142.250.179.195), 64 hops max, 40 byte packets
+ 1  de-gezevende-fl (192.168.1.1)  4.307 ms  3.670 ms  45.551 ms
+ 2  * * *
+ 3  d4b29c39.static.ziggozakelijk.nl (212.178.156.57)  87.376 ms  8.850 ms  11.464 ms
+ 4  * * *
+ 5  * nl-ams04a-ri3-ae51-0.core.as9143.net (213.51.64.194)  12.335 ms
+    nl-ams14a-ri1-ae51-0.core.as9143.net (213.51.64.186)  7.776 ms
+ 6  * 74.125.50.246 (74.125.50.246)  8.405 ms
+    142.250.168.234 (142.250.168.234)  7.133 ms
+ 7  74.125.242.185 (74.125.242.185)  6.618 ms  6.728 ms
+    74.125.243.131 (74.125.243.131)  37.467 ms
+ 8  142.251.255.38 (142.251.255.38)  8.378 ms
+    216.239.49.12 (216.239.49.12)  7.835 ms
+    142.250.224.130 (142.250.224.130)  8.406 ms
+ 9  74.125.242.128 (74.125.242.128)  9.100 ms
+    209.85.240.100 (209.85.240.100)  6.856 ms
+    142.251.48.179 (142.251.48.179)  6.225 ms
+10  ams15s42-in-f3.1e100.net (142.250.179.195)  6.860 ms  6.847 ms  6.119 ms
+4.6
+{
+  "ip": "142.250.179.195",
+  "hostname": "ams15s42-in-f3.1e100.net",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "org": "AS15169 Google LLC",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "readme": "https://ipinfo.io/missingauth"
+So it is in Lelystad.
+5
